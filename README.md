@@ -1,6 +1,8 @@
 # DatabaseEngineORM
 Simple MySQL ORM for Java, Easy to use, suggestion are welcome. (May not perfect for production)
 
+read the LICENSE before use it...
+
 # How to use
 1. create package called 'database' or 'databaseengine' inside of your project.
 2. copy and paste all files in 'src' of this repo.
